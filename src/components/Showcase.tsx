@@ -6,7 +6,7 @@ const slabs = [
     id: 1,
     name: 'Paradise Pink',
     category: 'Premium',
-    image: '/about-image.jepeg,
+    image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800',
   },
   {
     id: 2,
