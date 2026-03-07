@@ -7,7 +7,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=2000"
+          src="/about-image.jepeg"
           alt="Dark Granite Texture"
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
