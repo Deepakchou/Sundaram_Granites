@@ -77,7 +77,7 @@ export default function Footer() {
         </div>
 
         <div className="pt-8 border-t border-slate-900 flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
-          <p>&copy; {new Date().getFullYear()} Lumina Granite. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Sundaram Granites. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
