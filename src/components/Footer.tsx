@@ -50,7 +50,7 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-bold mb-6 uppercase tracking-wider text-sm">Collections</h4>
             <ul className="space-y-4">
-              <li><a href="#" className="hover:text-brand-500 transition-colors">Premium Black</a></li>
+              <li><a href="id: 1" className="hover:text-brand-500 transition-colors">Premium Black</a></li>
               <li><a href="#" className="hover:text-brand-500 transition-colors">Classic Whites</a></li>
               <li><a href="#" className="hover:text-brand-500 transition-colors">Exotic Reds</a></li>
               <li><a href="#" className="hover:text-brand-500 transition-colors">Modern Greys</a></li>
