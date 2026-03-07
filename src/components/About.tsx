@@ -23,7 +23,7 @@ export default function About() {
           >
             <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/about-image.jpeg"
+                src="about-images.PNG"
                 alt="Sundaram Granites Slab"
                 className="w-full h-full object-cover"
                 onError={(e) => {
