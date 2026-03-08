@@ -6,7 +6,7 @@ const slabs = [
     id: 1,
     name: 'Paradise Pink',
     category: 'Premium',
-    image: "/about-image.jpeg",
+    image: "IMG_6575.PNG",
   },
   {
     id: 2,
