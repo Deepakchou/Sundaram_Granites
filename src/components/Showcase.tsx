@@ -24,7 +24,7 @@ const slabs = [
     id: 4,
     name: 'Maryam White',
     category: 'Premium',
-    image: Maryamwhite_product.PNG',
+    image: 'Maryamwhite_product.PNG',
   },
   {
     id: 5,
